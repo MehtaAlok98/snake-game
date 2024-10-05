@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/usr/include/c++/11",
+        "${workspaceFolder}/**",
+        "/home/taccu/.conan2/p/**"
+      ],
+      "defines": [],
+      "cStandard": "c17",
+      "intelliSenseMode": "linux-gcc-x64",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
